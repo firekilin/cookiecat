@@ -1,0 +1,49 @@
+@charset "utf-8";
+@font-face {
+	font-family: 'SentyCHALKoriginal';
+	src: url('SentyCHALKoriginal.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'SentyChalk';
+	src: url('SentyChalk.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'SentyCreamPuff';
+	src: url('SentyCreamPuff.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'SentyGoldenBell';
+	src: url('SentyGoldenBell.ttf') format('truetype');
+}@font-face {
+	font-family: 'SentyMARUKO';
+	src: url('SentyMARUKO.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'SentyPaperCut';
+	src: url('SentyPaperCut.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'SentyPea';
+	src: url('SentyPea.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'SentySnowMountain';
+	src: url('SentySnowMountain.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'SentyTang';
+	src: url('SentyTang.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'SentyTEA';
+	src: url('SentyTEA.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'SentyWEN2017';
+	src: url('SentyWEN2017.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'SentyZHAO';
+	src: url('SentyZHAO.ttf') format('truetype');
+}
+
